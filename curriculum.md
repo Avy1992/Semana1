@@ -26,3 +26,9 @@ Pese a que nunca me he dedicado a ello, estoy realizando cursos y formandome par
 ### Contacto
 * Via e-mail: **adri23458@gmail.com**
 * Via telefónica: **616621271**
+
+### Aficiones
+* Videojuegos
+* Series y cine
+* Fantasía
+* Deportes (tenis, escalada, fitness)
