@@ -1,0 +1,44 @@
+body {
+    background: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    width: 600px;
+}
+div{
+    padding: 20px;
+    border: 1px solid tomato;
+}
+.column{
+    display: inline-block;
+    width: calc(33.33% - 40px - 2px);
+}
+/*section{
+    background: mediumpurple;
+}
+/*div{
+    background: palegoldenrod;
+    padding: 16px 32px;
+    margin: 20px;
+    border: 8px solid orchid;
+}
+p{
+    background: papayawhip;
+    color: lightgray;
+}
+.abuelo {
+    border: 1px dotted black;
+}
+p+p{
+    color: tomato;
+}/*Pinta las p que tengan justo antes otra p
+.hermano > span {
+    color: rebeccapurple;
+}/*pinta los span que sean hijos de la clase hermano
+div span{
+    font-weight: bold;
+}
+div ~ div {
+    color: teal;
+}*/
